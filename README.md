@@ -56,7 +56,7 @@ Now you can build the workspace as normally using `catkin build`.
 ## Available install files
 
 
-### neo_triniry.rosinstall
+### neo_trinity.rosinstall
 
 All the packages for talking to the Trinity modules in the NEO.
 
