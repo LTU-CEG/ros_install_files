@@ -1,0 +1,5 @@
+- git: {local-name: catkin_simple, uri: 'git@github.com:catkin/catkin_simple.git'}
+- git: {local-name: mav_comm, uri: 'git@github.com:ethz-asl/mav_comm.git', version: master}
+- git: {local-name: trinity_ros, uri: 'git@github.com:asctec-research/trinity_ros.git', version: master}
+- git: {local-name: trinity_msgs, uri: 'git@github.com:asctec-research/trinity_msgs.git', version: master}
+- git: {local-name: trinity_comm, uri: 'git@github.com:asctec-research/trinity_comm.git', version: master}
