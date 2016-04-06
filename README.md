@@ -66,4 +66,4 @@ LTU's Vicon packages.
 
 ### kfly_telemetry.rosinstall
 
-Coming soon!
+Packages for talkin with the KFly UAV controller.
