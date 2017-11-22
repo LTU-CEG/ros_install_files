@@ -1,3 +1,0 @@
-- git: {local-name: ros_kflytelemetry, uri: 'https://gitlab.com/korken89/ros_kflytelemetry.git', version: master}
-- git: {local-name: libkflytelemetry, uri: 'https://gitlab.com/korken89/libkflytelemetry.git', version: master}
-- git: {local-name: libserial, uri: 'https://github.com/wjwwood/serial.git', version: master}
