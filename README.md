@@ -22,7 +22,7 @@ Example:
 ```
 mkdir -p ~/catkin_ws/src
 catkin init
-catkin config --extend /opt/ros/indigo
+catkin config --extend /opt/ros/kinetic
 ```
 
 ### Populate src folder using wstool
@@ -56,14 +56,11 @@ Now you can build the workspace as normally using `catkin build`.
 ## Available install files
 
 
-### neo_trinity.rosinstall
+### `neo_trinity.rosinstall`
 
 All the packages for talking to the Trinity modules in the NEO.
 
-### ltu_vicon.rosinstall
+### `ltu_vicon.rosinstall`
 
 LTU's Vicon packages.
 
-### kfly_telemetry.rosinstall
-
-Packages for talkin with the KFly UAV controller.
