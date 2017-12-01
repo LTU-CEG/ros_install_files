@@ -64,3 +64,7 @@ All the packages for talking to the Trinity modules in the NEO.
 
 LTU's Vicon packages.
 
+### `sonar_array.rosinstall`
+
+LTU's sonar array system for collision avoidance.
+
