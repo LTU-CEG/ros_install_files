@@ -21,8 +21,16 @@ Example:
 
 ```
 mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws
 catkin init
 catkin config --extend /opt/ros/kinetic
+```
+
+Or one-liner:
+
+```
+cd ~/catkin_ws
+catkin config --mkdirs --extend /opt/ros/kinetic --cmake-args -DCMAKE_EXPORT_COMPILE_COMMANDS=1 -DCMAKE_BUILD_TYPE=Release
 ```
 
 ### Populate src folder using wstool
