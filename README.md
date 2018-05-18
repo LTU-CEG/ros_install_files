@@ -63,6 +63,9 @@ Now you can build the workspace as normally using `catkin build`.
 
 ## Available install files
 
+### `px4_comm.rosinstall`
+
+All the packages for talking to the PX4 and converting messages to `mav_comm`.
 
 ### `neo_trinity.rosinstall`
 

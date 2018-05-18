@@ -1,0 +1,2 @@
+- git: {local-name: mav_comm, uri: 'https://github.com/ethz-asl/mav_comm.git', version: master}
+- git: {local-name: px4_comm, uri: 'https://github.com/LTU-CEG/px4_comm.git', version: master}
