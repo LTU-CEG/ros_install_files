@@ -1,0 +1,2 @@
+- git: {local-name: mav_comm, uri: 'https://github.com/ethz-asl/mav_comm.git', version: master}
+- git: {local-name: rosflight_comm, uri: 'https://github.com/LTU-CEG/rosflight_comm.git', version: master}
