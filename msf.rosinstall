@@ -1,5 +1,5 @@
-- git: {local-name: msf, uri: 'git@github.com:LTU-CEG/msf.git', version: master}
+- git: {local-name: msf, uri: 'https://github.com/LTU-CEG/msf.git', version: master}
 - git: {local-name: catkin_simple, uri: 'https://github.com/catkin/catkin_simple.git', version: master}
 - git: {local-name: glog_catkin, uri: 'https://github.com/ethz-asl/glog_catkin.git', version: master}
 - git: {local-name: eigen_catkin, uri: 'https://github.com/LTU-CEG/eigen_catkin.git', version: master}
-- git: {local-name: uwb_comm, uri: 'https://github.com/LTU-CEG/eigen_catkin.git', version: master}
+- git: {local-name: uwb_comm, uri: 'https://github.com/LTU-CEG/uwb_comm.git', version: master}
