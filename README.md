@@ -63,6 +63,11 @@ Now you can build the workspace as normally using `catkin build`.
 
 ## Available install files
 
+### `msf.rosinstall`
+
+Multi sensor fustion packages.
+
+
 ### `rosflight_comm.rosinstall`
 
 All the packages for talking to the ROSFLIGHT system and converting messages to `mav_comm`.
